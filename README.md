@@ -1,4 +1,4 @@
-Установка Wordpress-окружения через Docker-compose.
+Установка Wordpress через Docker Compose.
 
 Включает в себя: WordPress, Nginx, MySQL, Wp-cli
 
